@@ -10,3 +10,4 @@
 ![Forensics Results](forensics_results.png)
 
 ## 🚀 Tech Stack
+PyTorch - Pandas - Matplotlib - OpenCV - Streamlit
