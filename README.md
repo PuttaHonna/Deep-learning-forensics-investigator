@@ -11,3 +11,8 @@
 
 ## 🚀 Tech Stack
 PyTorch - Pandas - Matplotlib - OpenCV - Streamlit
+## 🚀 Latest Results (Apr 3)
+![VGG16 Training](training_results.png)
+
+**PyTorch VGG16 Forensic CNN: [YOUR ACCURACY]% achieved**
+**Training epochs complete | Production-ready pipeline**
