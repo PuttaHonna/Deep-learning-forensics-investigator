@@ -17,7 +17,3 @@ PyTorch - Pandas - Matplotlib - OpenCV - Streamlit
 **PyTorch VGG16 Forensic CNN: [YOUR ACCURACY]% achieved**
 **Training epochs complete | Production-ready pipeline**
 
-## 🔍 OpenCV ELA Pipeline (Apr 4)
-![ELA Forensics](ela_forensics_analysis.png)
-
-**Tampering Confidence: [YOUR %]% detected**
